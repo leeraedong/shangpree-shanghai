@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="732.78" height="752" viewBox="0 0 732.78 752">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_16" data-name="사각형 16" width="732.78" height="752" fill="none" stroke="#d2e1b9" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_19" data-name="그룹 19" clip-path="url(#clip-path)">
+    <ellipse id="타원_6" data-name="타원 6" cx="365.303" cy="374.913" rx="365.303" ry="374.913" transform="translate(1.088 1.086)" fill="none" stroke="#d2e1b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_7" data-name="타원 7" cx="284.647" cy="284.647" r="284.647" transform="translate(81.744 101.964)" fill="none" stroke="#d2e1b9" stroke-miterlimit="10" stroke-width="1"/>
+    <circle id="타원_8" data-name="타원 8" cx="236.849" cy="236.849" r="236.849" transform="translate(129.542 149.762)" fill="none" stroke="#d2e1b9" stroke-miterlimit="10" stroke-width="1"/>
+    <ellipse id="타원_9" data-name="타원 9" cx="318.971" cy="279.597" rx="318.971" ry="279.597" transform="translate(47.419 1.087)" fill="none" stroke="#d2e1b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="패스_29" data-name="패스 29" d="M203.609.263c83.759,0,151.659,71.128,151.659,158.872s-67.9,158.876-151.659,158.876S51.95,246.879,51.95,159.135,119.85.263,203.609.263Z" transform="translate(162.781 0.824)" fill="none" stroke="#d2e1b9" stroke-miterlimit="10" stroke-width="1"/>
+    <ellipse id="타원_10" data-name="타원 10" cx="205.505" cy="210.924" rx="205.505" ry="210.924" transform="translate(160.886 54.199)" fill="none" stroke="#d2e1b9" stroke-miterlimit="10" stroke-width="1"/>
+    <path id="패스_30" data-name="패스 30" d="M173.018,36.232c61.472,0,111.3,50.506,111.3,112.813s-49.832,112.809-111.3,112.809-111.3-50.506-111.3-112.809S111.545,36.232,173.018,36.232Z" transform="translate(193.372 113.53)" fill="none" stroke="#d2e1b9" stroke-miterlimit="10" stroke-width="1"/>
+  </g>
+</svg>
